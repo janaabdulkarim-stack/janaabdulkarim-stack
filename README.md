@@ -5,7 +5,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1200&color=5875A9&center=true&vCenter=true&width=600&lines=Data+Analytics;Web+Development;Project+Management;Turning+Ideas+into+Solutions" alt="Typing Animation" />
 
-
 </div>
 
 ---
@@ -50,16 +49,25 @@ My main interests are **data analytics**, **web development**, and **project man
 <table>
 <tr>
 <td width="33%" valign="top">
-<img src="assets/quran-project.png" alt="Smart Quran Companion illustration" width="100%"/>
 
-<b>Smart Quran Companion</b>
+<a href="https://github.com/janaabdulkarim-stack/haseen-project">
+<img src="https://raw.githubusercontent.com/janaabdulkarim-stack/haseen-project/main/haseen-github-showcase/assets/home.png" alt="Hassin Cloud Clinic" width="100%"/>
+</a>
 
-Quran learning platform exploring recitation analysis and intelligent assistance.
+<b>Hassin | Cloud Clinic</b>
 
-<sub>React · TypeScript · Python · In development</sub>
+Collaborative workplace wellbeing platform featuring burnout assessment, analytics, and digital support services.
+
+<sub>React · TypeScript · Supabase · Vercel</sub>
+
+<p>
+<a href="https://github.com/janaabdulkarim-stack/haseen-project">View Project →</a>
+</p>
+
 </td>
 
 <td width="33%" valign="top">
+
 <img src="assets/data-project.png" alt="Data Analytics illustration" width="100%"/>
 
 <b>Data Analytics</b>
@@ -67,9 +75,11 @@ Quran learning platform exploring recitation analysis and intelligent assistance
 A space for documented data analysis and visualization projects.
 
 <sub>Projects to be added</sub>
+
 </td>
 
 <td width="33%" valign="top">
+
 <img src="assets/web-project.png" alt="Web Development illustration" width="100%"/>
 
 <b>Web Development</b>
@@ -77,6 +87,7 @@ A space for documented data analysis and visualization projects.
 A space for practical, user-focused web applications.
 
 <sub>Projects to be added</sub>
+
 </td>
 </tr>
 </table>
